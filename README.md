@@ -4,9 +4,6 @@
 👤 **Created by:** Alvanosh Jojo  
 💻 **Website:** [alvanosh.info](https://alvanosh.info/)  
 🐙 **GitHub:** [Alvanosh's GitHub Profile](https://github.com/Alvanosh)
-![DDoS Simulation Tool Logo](![Uploading image.png…]()
-)
-
 
 ---
 
