@@ -118,5 +118,3 @@ Contributions are welcome! Feel free to fork the repository, suggest improvement
 ### **Let's make the internet safer, one simulation at a time!** 🔐
 
 ---
-
-This template is designed to catch the eye, highlight the most attractive and functional aspects of the tool, and ensure it's presented professionally on GitHub.
