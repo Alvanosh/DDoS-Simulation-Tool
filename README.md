@@ -62,15 +62,7 @@ def start_attack():
         messagebox.showinfo("Success", "Attack started successfully! 🚀")
     except ValueError as ve:
         messagebox.showerror("Input Error", str(ve))  # Show input error
-```
-
----
-
-Feel free to make any additional tweaks to this template! It should now be more visually appealing and informative.
-
-
-4. **User-Friendly GUI**:  
-   The tool provides a highly interactive **Graphical User Interface** (GUI) built using Tkinter. Here’s what you need to enter:  
+```  
 ---
 
 ## **📊 Real-Time Statistics**
