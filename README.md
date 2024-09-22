@@ -71,14 +71,6 @@ Feel free to make any additional tweaks to this template! It should now be more 
 
 4. **User-Friendly GUI**:  
    The tool provides a highly interactive **Graphical User Interface** (GUI) built using Tkinter. Here’s what you need to enter:  
-   - **Target (IP or Domain)**: Specify the target’s IP address or domain name.  
-   - **Port**: Choose the port to attack.  
-   - **Attack Type**: Select the attack type (TCP, UDP, or HTTP).  
-   - **Payload**: Input the custom payload for the attack.  
-   - **Interval (seconds)**: Set the interval between requests to control the pace.  
-   - **Number of Threads**: Define how many threads to run simultaneously for scaling the attack.  
-   - **HTTPS Option**: Check the box for HTTPS attacks.  
-
 ---
 
 ## **📊 Real-Time Statistics**
